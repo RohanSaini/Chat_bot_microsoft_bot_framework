@@ -8,5 +8,5 @@ Resources:
 Requirment:
   1. Node.js (https://nodejs.org/en/)
   
-  ![Alt text](img.png?raw=true "Screen Shot")
+  ![Alt text](imgg.png?raw=true "Screen Shot")
   
