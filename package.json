@@ -1,0 +1,27 @@
+{
+  "name": "Pizza_order_bot",
+  "version": "1.0.0",
+  "description": "Bot that can help you in ordering pizza",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Rohan Saini",
+  "license": "MIT",
+  "keywords": [
+    "botbuilder",
+    "bots",
+    "chatbots",
+    "botbuilder-samples"
+  ],
+  "bugs": {
+    "url": "https://github.com/RohanSaini/Chat_bot_microsoft_bot_framework"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RohanSaini/Chat_bot_microsoft_bot_framework"
+  },
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^4.3.0"
+  }
+}
