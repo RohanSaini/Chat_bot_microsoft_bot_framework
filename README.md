@@ -7,3 +7,6 @@ Resources:
  
 Requirment:
   1. Node.js (https://nodejs.org/en/)
+  
+  ![Alt text](img.jpg?raw=true "Screen Shot")
+  
